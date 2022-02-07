@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://jovvvva.itch.io/night-day)
+[Night and Day](https://jovvvva.itch.io/night-day)
 <img src="https://img.itch.zone/aW1nLzc2MzEyMzQucG5n/original/FEe4FL.png"/>
 
 ---
