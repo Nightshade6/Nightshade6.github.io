@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Night and Day](https://jovvvva.itch.io/night-day)
-<img src="https://img.itch.zone/aW1nLzc2MzEyMzQucG5n/original/FEe4FL.png"/>
+<img src="https://img.itch.zone/aW1nLzc2MzEyMzQucG5n/original/FEe4FL.png?raw=true"/>
 <br><br>
 ---
 [Test](/images/Slika.jpg)
