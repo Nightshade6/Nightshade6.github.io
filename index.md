@@ -8,7 +8,7 @@
 <img src="https://img.itch.zone/aW1nLzc2MzEyMzQucG5n/original/FEe4FL.png"/>
 
 ---
-[Test](/pdf/sample_presentation.pdf)
+[Test](/images/Slika.jpg)
 <img src="images/Slika.jpg?raw=true"/>
 
 ---
